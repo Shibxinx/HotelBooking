@@ -1,0 +1,6 @@
+Customer Name: shi
+Room Info: 101 standardroom 1 bed 1 bath
+Guests: 1
+Check-in: 24/11/2025
+Check-out: 30/11/2025
+------------------------------
