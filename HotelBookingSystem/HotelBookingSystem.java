@@ -128,12 +128,20 @@ public class HotelBookingSystem {
             }
         }//end while
 
-        String roomType = switch (roomtype) {
-            case 1 -> "Standard";
-            case 2 -> "Superior";
-            case 3 -> "Deluxe";
-            case 4 -> "Suite";
-            default -> "";
+        String roomType ; 
+        switch (roomtype) {
+            case 1 :
+                roomType = "Standard";
+                break;
+            case 2 :
+                roomType = "Superior";
+                break;
+            case 3 :
+                roomType = "Deluxe";
+            case 4 :
+                roomType = "Suite";
+            default :
+                roomType = "";
         };
         
         System.out.println("\n===== " + roomType + " ROOMS =====");
