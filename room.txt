@@ -1,0 +1,39 @@
+101 standardroom 1 bed 1 bath
+102 standardroom 1 bed 1 bath
+103 standardroom 1 bed 1 bath
+104 standardroom 2 bed 1 bath
+105 standardroom 2 bed 1 bath
+106 standardroom 2 bed 1 bath
+107 standardroom 3 bed 2 bath
+108 standardroom 3 bed 2 bath
+109 standardroom 3 bed 2 bath
+
+201 superiorroom 1 bed 1 bath
+202 superiorroom 1 bed 1 bath
+203 superiorroom 1 bed 1 bath
+204 superiorroom 2 bed 1 bath
+205 superiorroom 2 bed 1 bath
+206 superiorroom 2 bed 1 bath
+207 superiorroom 3 bed 2 bath
+208 superiorroom 3 bed 2 bath
+209 superiorroom 3 bed 2 bath
+
+301 deluxeroom 1 bed 1 bath
+302 deluxeroom 1 bed 1 bath
+303 deluxeroom 1 bed 1 bath
+304 deluxeroom 2 bed 1 bath
+305 deluxeroom 2 bed 1 bath
+306 deluxeroom 2 bed 1 bath
+307 deluxeroom 3 bed 2 bath
+308 deluxeroom 3 bed 2 bath
+309 deluxeroom 3 bed 2 bath
+
+401 suiteroom 1 bed 1 bath
+402 suiteroom 1 bed 1 bath
+403 suiteroom 1 bed 1 bath
+404 suiteroom 2 bed 1 bath
+405 suiteroom 2 bed 1 bath
+406 suiteroom 2 bed 1 bath
+407 suiteroom 3 bed 2 bath
+408 suiteroom 3 bed 2 bath
+409 suiteroom 3 bed 2 bath
